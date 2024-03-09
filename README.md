@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jean-Pierre Liguori
+* aka **jplozf**
+* from Seine-et-Marne, **France**
 
 <!--
 **jplozf/jplozf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
